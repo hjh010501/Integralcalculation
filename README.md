@@ -2,8 +2,6 @@
 
 ![](https://github.com/hjh010501/Integralcalculation/blob/master/screenshot.png)
 
-If you have used mac, you know what I say. 😁lol😁
-
 ## 💪Features
 * All mathematical expression can be integral with javascript math command
 
